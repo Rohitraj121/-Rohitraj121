@@ -1,9 +1,8 @@
-# -Rohitraj121
-Hi 👋, I'm Rohit Raj
-A passionate Fullstack and A.I/M.L developer
+# Hi 👋, I'm Rohit Raj
+# A passionate Fullstack and A.I/M.L developer
 
 
-🔭 I’m currently working on Frontend
+🔭 I’m currently working on Frontend & AI/ML projects
 
 🌱 I’m currently learning React & AI/ML tools
 
@@ -41,4 +40,4 @@ A passionate Fullstack and A.I/M.L developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohitraj121&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
